@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a passionate and results-driven software engineer with
 ## 📂 Featured Projects
 
 - 🔧 **Enterprise CRM System** – Built a scalable CRM platform using ASP.NET MVC and SQL Server
-- 🌐 **E-commerce Web App** – Developed a full-stack solution with Spring Boot and Angular
+- 🌐 **E-commerce Web App** – Developed a full-stack solution with Asp.net Core Api and Angular
 - 📊 **Data Analytics Dashboard** – Created interactive dashboards using JavaScript and RESTful APIs
 
 ## 📫 Let's Connect
