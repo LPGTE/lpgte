@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Naili anouar, a Senior .NET and Java Developer .
+# 👋 Hello, I'm Naili Anouar, a Senior .NET and Java Developer .
 
 Welcome to my GitHub! I'm a passionate and results-driven software engineer with nearly two decades of experience designing, developing, and delivering enterprise-grade applications. My core expertise lies in the Microsoft ecosystem, but I also bring strong cross-platform skills and a deep understanding of backend and frontend technologies.
 
